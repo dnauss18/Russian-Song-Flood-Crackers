@@ -1,0 +1,6 @@
+C:\Users\camtr\Documents\1_GAME_MODDING\Games\Mario Party Games\MP4\data\bkoopasuit.bin
+C:\Users\camtr\Documents\1_GAME_MODDING\Games\Mario Party Games\MP4\data\bkoopa.bin
+C:\Users\camtr\Documents\1_GAME_MODDING\Games\Mario Party Games\MP10\content\common\bin\mginst.bin
+C:\Users\camtr\Documents\1_GAME_MODDING\Games\Mario Party Games\MP10\content\common\bin\ch_base\common\ch_base\npc\npc076_honekoopa\npc076_shell00_spe.gtx
+C:\Users\camtr\Documents\1_GAME_MODDING\Games\Mario Party Games\MP10\content\common\bin\ch_base\common\ch_base\npc\npc076_honekoopa\npc076_shell00_nml.gtx
+C:\Users\camtr\Documents\1_GAME_MODDING\Games\Mario Party Games\MP10\content\common\bin\ch_base\common\ch_base\npc\npc076_honekoopa\npc076_shell00.gtx
